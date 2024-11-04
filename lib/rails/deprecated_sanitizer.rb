@@ -8,19 +8,19 @@ module Rails
     extend self
 
     def full_sanitizer
-      HTML::FullSanitizer
+      ::HTML::FullSanitizer
     end
 
     def link_sanitizer
-      HTML::LinkSanitizer
+      ::HTML::LinkSanitizer
     end
 
     def white_list_sanitizer
-      HTML::WhiteListSanitizer
+      ::HTML::WhiteListSanitizer
     end
 
     def safe_list_sanitizer
-      HTML::WhiteListSanitizer
+      ::HTML::WhiteListSanitizer
     end
   end
 end

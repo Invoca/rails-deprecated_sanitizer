@@ -1,3 +1,7 @@
+## 1.0.5
+* InvocaPatch: Add Rails 7.x support
+* InvocaPatch: Require ruby 3.1 or higher
+
 ## 1.0.4
 
 * Rails 6 support https://github.com/rails/rails-deprecated_sanitizer/pull/6
