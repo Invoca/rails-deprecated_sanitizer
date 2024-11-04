@@ -1,5 +1,8 @@
 # Rails::Deprecated::Sanitizer
 
+## Invoca Patch
+* Add support for Rails 7.0
+
 In Rails 4.2 HTML sanitization has been rewritten using a more secure library.
 
 This gem includes the old behavior shipping with Rails 4.2 and before. It is
