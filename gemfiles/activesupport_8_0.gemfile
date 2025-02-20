@@ -6,6 +6,6 @@ gem "appraisal-matrix"
 gem "drb"
 gem "mutex_m"
 gem "rails"
-gem "activesupport", "~> 7.1.0"
+gem "activesupport", "~> 8.0.0"
 
 gemspec path: "../"
