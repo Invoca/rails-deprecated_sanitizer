@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 
 gem "appraisal-matrix"
+gem "drb"
+gem "mutex_m"
 gem "rails"
 gem "activesupport", "~> 7.1.0"
 
