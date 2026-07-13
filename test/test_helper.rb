@@ -1,3 +1,5 @@
+require_relative "simplecov_helper"
+
 require 'bundler/setup'
 require 'minitest/autorun'
 require 'logger'
