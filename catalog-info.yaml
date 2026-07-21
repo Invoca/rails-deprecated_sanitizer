@@ -15,12 +15,12 @@ kind: Component
 metadata:
   name: rails-deprecated_sanitizer-gem
   title: Rails::DeprecatedSanitizer
-  description:
+  description: Deprecated sanitizer API extracted from Action View.
   tags:
-    - ruby
-    - gem
-    - public
-    - rails-dependent
+  - ruby
+  - gem
+  - public
+  - rails-dependent
   annotations:
     buildkite.com/project-slug: invoca/rails-deprecated-sanitizer
     github.com/project-slug: invoca/rails-deprecated_sanitizer
